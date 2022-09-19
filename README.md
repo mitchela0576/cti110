@@ -1,2 +1,4 @@
 # cti110
-CTI 110 Respository
+Created for P1LAB1
+Mitchel
+Sep-19-2022
